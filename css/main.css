@@ -1,0 +1,40 @@
+#link-index {
+    color: #212529;
+    text-decoration: none;
+}
+
+
+/*#title-contacto {
+    margin-left: 23.6%;
+}*/
+
+#divisor-contacto {
+    width: 12%;
+    display: -webkit-inline-box;    
+    border-top: 2px solid #000000;
+
+}
+
+#list-text ul li a{
+    color: #000000;
+}
+
+#contenido-contacto {
+    text-align: center;
+}
+
+footer {
+    z-index: 1;
+}
+
+div #f-copyright {
+    display: flex;
+    align-items: center;
+}
+
+div #f-contacto p{
+    color: #979797;
+    font-size: 14px;
+    margin-top: 0px;
+    font-weight: 400;
+}

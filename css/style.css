@@ -280,11 +280,11 @@ header{
     z-index: 1;
     background: #fff;
     overflow: hidden;
-    box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.10);
-    padding-bottom: 90px;
+    /*box-shadow: 0px 0px 32px 0px rgba(0, 0, 0, 0.10);
+    padding-bottom: 90px;*/
 }
 
-.cont{
+.cont-footer{
     width: 70%;
     margin-left: 15%;
 }
@@ -1095,7 +1095,7 @@ footer .getintouch a{
 footer .getintouch strong{
     font-size: 20px;
     color: #000;
-  line-height: 50px;
+    /*line-height: 50px;*/
 }
 
 
@@ -1616,10 +1616,6 @@ textarea.form-message{
         padding-bottom: 10px;
     }
 
-    .cont {
-        width: 90%;
-        margin-left: 5%;
-    }
 
     .full-menu .full-inner nav ul li a {
         font-size: 32px;
@@ -1709,11 +1705,6 @@ textarea.form-message{
     .home .home-content p {
         font-size: 20px;
         margin-top: 24px;
-    }
-
-    .cont {
-        width: 90%;
-        margin-left: 5%;
     }
 
     .portfolio .portfolio-filter {    
@@ -1940,10 +1931,10 @@ textarea.form-message{
         display: none;
     }
 
-    .cont {
+    /*.cont-footer2 {
         width: 90%;
         margin-left:5%;
-    }
+    }*/
 
     .news-article .title {
         font-size: 25px;
@@ -2006,7 +1997,7 @@ textarea.form-message{
     }
 
     .wrapper {
-        padding-bottom: 60px;
+        /*padding-bottom: 60px;*/
     }
 
   
